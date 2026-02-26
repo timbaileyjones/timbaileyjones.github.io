@@ -1,5 +1,6 @@
 #!/bin/bash -x -e -u -o pipefail
 rm -f ./.hugo_build.lock
+find assets -name "._*" -type f -delete 2>/dev/null || true
 #docker run --rm --name bailey-jones.com \
 #  -v ${PWD}:/src \
 #  -v ${HOME}/.hugo_cache:/tmp/hugo_cache \
