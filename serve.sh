@@ -5,6 +5,6 @@
 #  hugo server --bind 0.0.0.0 --port 1313 --disableFastRender --noHTTPCache --ignoreCache --cleanDestinationDir 
 
 
-cp ~/symlink-resume-2025/Tim-Bailey-Jones-Resume-*.pdf public/
+cp ~/symlink-resume-202*/Tim-Bailey-Jones-Resume-*.pdf public/
 hugo server --bind 0.0.0.0 --port 1313 --disableFastRender --noHTTPCache --ignoreCache # --cleanDestinationDir 
 

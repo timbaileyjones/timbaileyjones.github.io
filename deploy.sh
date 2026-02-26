@@ -8,6 +8,6 @@ rm -f ./.hugo_build.lock
   
 
 hugo -b https://bailey-jones.com  --noBuildLock
-cp ~/symlink-resume-2025/Tim-Bailey-Jones-Resume-*.pdf public/
+cp ~/symlink-resume-2026/Tim-Bailey-Jones-Resume-February-2026.pdf public/
 gcloud storage rsync public/. gs://bailey-jones.com --recursive
 gcloud compute url-maps invalidate-cdn-cache website-url-map --global --path=/*  # --async 
