@@ -8,3 +8,7 @@ npm-debug.log
 node_modules
 package-lock.json
 _site
+public
+resources
+go.sum
+hugo_stats.json
