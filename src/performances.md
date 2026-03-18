@@ -85,3 +85,61 @@ A full concert playlist. Venue and date unknown — if you know, let me know!
 <iframe src="https://www.youtube.com/embed?listType=playlist&list=PLJ4l7m78qXoxOIhs9NKNLyCWd4_C8LkuG" title="Cypress Creek Jazz Band Concert Playlist Vol. 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
+
+---
+
+## Cypress Creek Jazz Band — Kumquat Festival 2016, Dade City FL
+
+Live at the Pasco County Courthouse in downtown Dade City. I'm the tuba player.
+
+### Bourbon Street Parade
+
+<div class="video-embed">
+<div class="video-wrapper">
+<iframe src="https://www.youtube.com/embed/ehmA04u_-vg?si=twc3slyfqXzSNP4t" title="Bourbon Street Parade — Cypress Creek Jazz Band, Kumquat Festival 2016" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+### Just a Closer Walk With Thee
+
+<div class="video-embed">
+<div class="video-wrapper">
+<iframe src="https://www.youtube.com/embed/cwqCqRXlEgY?si=Dd33BiRWGAmzTSLp" title="Just a Closer Walk With Thee — Cypress Creek Jazz Band, Kumquat Festival 2016" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+### The Sheik of Araby ("with no pants on!")
+
+<div class="video-embed">
+<div class="video-wrapper">
+<iframe src="https://www.youtube.com/embed/m9SzAOQESHI?si=rH5AaoTiu3-eCKco" title="The Sheik of Araby — Cypress Creek Jazz Band, Kumquat Festival 2016" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+### Do You Know What It Means to Miss New Orleans?
+
+<div class="video-embed">
+<div class="video-wrapper">
+<iframe src="https://www.youtube.com/embed/GZLphH84kLA?si=3RwTMjsonZveb2SH" title="Do You Know What It Means to Miss New Orleans — Cypress Creek Jazz Band, Kumquat Festival 2016" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+### Lazy River
+
+<div class="video-embed">
+<div class="video-wrapper">
+<iframe src="https://www.youtube.com/embed/GI_Tcbazx1M?si=1QmtsS8Ypo95cpa1" title="Lazy River — Cypress Creek Jazz Band, Kumquat Festival 2016" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
+---
+
+## Sunshine Brass — Concert Playlist
+
+British-style brass band based in the Tampa Bay area. Full concert playlist.
+
+<div class="video-embed">
+<div class="video-wrapper">
+<iframe src="https://www.youtube.com/embed?listType=playlist&list=PLTaKHYEvGTUXiJSNKCI3PxJtadtFodrX4" title="Sunshine Brass Concert Playlist" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>

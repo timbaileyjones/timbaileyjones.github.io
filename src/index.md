@@ -8,19 +8,18 @@ description: Tim Bailey Jones — musician, tuba and trumpet player, Tampa Bay F
   <img src="/images/tim-tuba.jpeg" alt="Tim Bailey Jones playing tuba" class="hero-photo" />
   <div class="hero-text">
     <h1>Tim Bailey Jones</h1>
-    <p class="hero-tagline">Musician &mdash; Brass &amp; More &mdash; Tampa Bay, FL</p>
+    <p class="hero-tagline">Brass Musician (mostly) - Tampa Bay, FL</p>
     <p>
-      I've been playing music in the Tampa Bay area for 20+ years — tuba is home base,
+      I've been playing music in the Tampa Bay area for 30+ years — tuba is home base,
       but I play my way through most of the brass family and then some.
       Currently active in ska, dixieland jazz, brass quintets, concert band, and symphony.
     </p>
-    <p>
-      Music has never paid a mortgage, and I'm fine with that. It keeps me sane.
-      If you're looking for my tech work, head over to
-      <a href="https://linuxtampa.com" target="_blank" rel="noopener">LinuxTampa.com</a>.
-    </p>
   </div>
 </div>
+    <h2>
+      NOTE: If you're looking for my software engineering work, head over to
+      <a href="https://linuxtampa.com" target="_blank" rel="noopener">LinuxTampa.com</a>.
+    </h2>
 
 <div class="ornament">&#9834; &mdash; &mdash; &#9834;</div>
 

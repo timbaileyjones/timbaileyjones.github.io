@@ -6,23 +6,23 @@ description: About Tim Bailey Jones — instruments, musical background, Tampa B
 
 # About
 
-I'm a software engineer by day, musician by — well, also by day sometimes, if the gig is a noon concert in a park somewhere. Based in Tampa Bay, FL.
+I'm a software engineer by day, musician most other times.
 
-Music has been part of my life since childhood. I've never made a career of it, and I never really wanted to. Playing music for love of it, without any financial pressure attached, is something I've been lucky to maintain.
+Music has been part of my life since childhood. I
 
 <div class="ornament">&#9834;</div>
 
 ## Instruments
 
 ### Brass (Primary)
-- **Tuba** — my main instrument; what I'm known for in the Tampa Bay music community
+- **Tuba** — my main instruments (B-flat, E-flat and F); what I'm known for in the Tampa Bay music community
 - **Euphonium / Baritone horn**
-- **Trombone**
-- **French horn**
-- **Mellophone**
-- **Trumpet / Cornet**
-- **Flugelhorn**
-- **Bugle**
+- **Trombones** - tenor and bass
+- **French horn** - single and double
+- **Mellophone** - four of them at last count (2 in F, 2 in B-flat)
+- **Trumpet / Cornet** - several of each
+- **Flugelhorn** - American piston & German rotary
+- **Bugle** - Two-valve in G
 
 ### Woodwinds
 - **Bassoon**
@@ -31,9 +31,10 @@ Music has been part of my life since childhood. I've never made a career of it, 
 ### Strings & Other
 - **Guitar**
 - **Bass guitar**
+- **String / Double Bass (no bow)**
 - **Ukulele**
 - **Piano / Keys**
-- **Hammered dulcimer** — inherited from my father, who played it beautifully
+- **Hammered dulcimer** — inherited from my late father, who built them and played them for mamy years. [tuckasee.com]({{ site.tuckasee }}).
 
 <div class="ornament">&#9834;</div>
 
@@ -41,8 +42,5 @@ Music has been part of my life since childhood. I've never made a career of it, 
 
 I grew up playing in school bands and kept going after school ended — community orchestras, brass quintets, dixieland bands, wind ensembles. The Tampa Bay area has a surprisingly vibrant community music scene, and I've been fortunate to find good groups to play with.
 
-I read music fluently but I also play by ear. Classical, jazz, dixieland, marching — I'm comfortable in most styles as long as someone needs a tuba.
+I read music fluently, transpose and transcribe with ease.   I can also play by ear when needed. Classical, jazz, dixieland, marching, baroque, showtunes, musicals.
 
----
-
-*My father's music lives on at [tuckasee.com]({{ site.tuckasee }}).*

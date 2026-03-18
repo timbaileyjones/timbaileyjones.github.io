@@ -54,12 +54,13 @@ Groups I play with around Tampa Bay. Hover or tap to pause, then click a link.
           <h2 class="slide-title">Cypress Creek Dixieland</h2>
           <p class="slide-desc">
             Traditional dixieland band out of the Wesley Chapel / Pasco County area, going strong for 12+ years.
-            I'm their tuba player — the bottom of the rhythm section. We play at New Tampa Performing Arts Center,
+            I'm a founding member and their tuba player — the bottom of the rhythm section. We play at New Tampa Performing Arts Center,
             Carrollwood Cultural Center, neighborhood clubhouses, festivals, private events,
             breweries, and anywhere that needs some New Orleans flavor in central Florida.
           </p>
           <div class="slide-links">
-            <a class="slide-link primary" href="/albums#cypress">Albums</a>
+            <a class="slide-link primary" href="https://cypresscreekdixieland.com" target="_blank" rel="noopener">Band Site</a>
+            <a class="slide-link secondary" href="/albums#cypress">Albums</a>
             <a class="slide-link secondary" href="/performances">Videos</a>
           </div>
         </div>
@@ -80,12 +81,13 @@ Groups I play with around Tampa Bay. Hover or tap to pause, then click a link.
           <h2 class="slide-title">Gaspar Brass Quintet</h2>
           <p class="slide-desc">
             Named for José Gaspar — Tampa Bay's legendary pirate — this is a fun brass quintet:
-            two trumpets, French horn, trombone, and tuba. We play transcriptions, show tunes, 
-            jazz arrangements, brass quintet literature, and the occasional arrangement that 
+            two trumpets, French horn, trombone, and tuba. A founding member. We play transcriptions, show tunes,
+            jazz arrangements, brass quintet literature, and the occasional arrangement that
             nobody in the audience expected.
           </p>
           <div class="slide-links">
-            <a class="slide-link primary" href="/performances">Performances</a>
+            <a class="slide-link primary" href="https://gasparbrass.com" target="_blank" rel="noopener">Band Site</a>
+            <a class="slide-link secondary" href="/performances">Performances</a>
           </div>
         </div>
       </div>
@@ -104,12 +106,12 @@ Groups I play with around Tampa Bay. Hover or tap to pause, then click a link.
           </div>
           <h2 class="slide-title">Wesley Chapel Wind Ensemble</h2>
           <p class="slide-desc">
-            Community wind ensemble serving Wesley Chapel and New Tampa.  I was a founding member
-            of this group around 2010 or so.  The Cypress Creek Jazz Band and Gaspar Brass both 
-            grew out of this ensemble.
+            Community wind ensemble serving Wesley Chapel and New Tampa. Founding member, circa 2010.
+            The Cypress Creek Jazz Band and Gaspar Brass both grew out of this ensemble.
           </p>
           <div class="slide-links">
-            <a class="slide-link primary" href="/performances">Performances</a>
+            <a class="slide-link primary" href="https://facebook.com/profile.php?id=100038994229181" target="_blank" rel="noopener">Facebook</a>
+            <a class="slide-link secondary" href="/performances">Performances</a>
           </div>
         </div>
       </div>
@@ -133,7 +135,8 @@ Groups I play with around Tampa Bay. Hover or tap to pause, then click a link.
             through Romantic periods, performed for the communities of Dade City and Zephyrhills.
           </p>
           <div class="slide-links">
-            <a class="slide-link primary" href="/performances">Performances</a>
+            <a class="slide-link primary" href="https://dadecitysymphony.com" target="_blank" rel="noopener">Orchestra Site</a>
+            <a class="slide-link secondary" href="/performances">Performances</a>
           </div>
         </div>
       </div>
