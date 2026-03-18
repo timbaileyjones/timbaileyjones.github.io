@@ -6,7 +6,6 @@ Thumbs.db
 .sass-cache
 npm-debug.log
 node_modules
-package-lock.json
 _site
 public
 resources
