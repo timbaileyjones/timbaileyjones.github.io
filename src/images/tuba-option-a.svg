@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Option A: "Bell Eye" — looking straight into the bell from the front -->
+  <!-- Outer bell rim -->
+  <circle cx="16" cy="16" r="15" fill="#c9a227"/>
+  <!-- Second ring -->
+  <circle cx="16" cy="16" r="11" fill="#8b6914"/>
+  <!-- Inner ring -->
+  <circle cx="16" cy="16" r="7" fill="#c9a227"/>
+  <!-- Bore (center hole) -->
+  <circle cx="16" cy="16" r="3" fill="#1a0e00"/>
+</svg>

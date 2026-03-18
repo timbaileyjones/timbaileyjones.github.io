@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Option D: "Silhouette" — solid gold filled front-view tuba shape -->
+  <!-- Main body silhouette -->
+  <path d="
+    M16 2
+    C24 2 29 7 29 14
+    C29 21 24 27 16 29
+    C8 27 3 21 3 14
+    C3 7 8 2 16 2 Z
+  " fill="#c9a227"/>
+  <!-- Cutout for the open center of the tubing loop -->
+  <ellipse cx="16" cy="19" rx="7" ry="6" fill="#1a0e00"/>
+  <!-- Bell opening cutout at top -->
+  <ellipse cx="16" cy="5" rx="6" ry="2.5" fill="#1a0e00"/>
+  <!-- Valve cutouts -->
+  <rect x="11" y="14" width="3" height="7" rx="1.5" fill="#1a0e00"/>
+  <rect x="18" y="14" width="3" height="7" rx="1.5" fill="#1a0e00"/>
+</svg>

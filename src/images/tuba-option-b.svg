@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Option B: "Front Face" — front view, bell at top, three valves, tubing frame -->
+  <!-- Tubing frame (outer oval) -->
+  <ellipse cx="16" cy="21" rx="13" ry="10" fill="none" stroke="#c9a227" stroke-width="3"/>
+  <!-- Bell opening -->
+  <ellipse cx="16" cy="8" rx="11" ry="5" fill="#c9a227"/>
+  <ellipse cx="16" cy="8" rx="7.5" ry="3" fill="#1a0e00"/>
+  <!-- Three valves -->
+  <rect x="8.5" y="15" width="4" height="9" rx="2" fill="#c9a227"/>
+  <rect x="14" y="15" width="4" height="9" rx="2" fill="#c9a227"/>
+  <rect x="19.5" y="15" width="4" height="9" rx="2" fill="#c9a227"/>
+</svg>

@@ -24,8 +24,7 @@ Groups I play with around Tampa Bay. Hover or tap to pause, then click a link.
           </div>
           <h2 class="slide-title">Foolish Relics</h2>
           <p class="slide-desc">
-            Tampa-area ska band I joined in 2025 as their trumpet player. High-energy horns-up ska.
-            Our debut album <em>Somebody Please Just Wake Me Up</em> dropped in 2025.
+            This is a Bradenton-area ska band I joined in 2025 as their trumpet player. High-energy horns-up ska. Our latest album <em>Somebody Please Just Wake Me Up</em> dropped in 2025.
           </p>
           <ul class="slide-shows">
             <li><strong>Jun 1</strong> &mdash; Bottom of the Hill, San Francisco CA</li>

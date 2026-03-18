@@ -15,7 +15,7 @@ Recordings I've been part of over the years.
 ### Somebody Please Just Wake Me Up
 <p class="album-year">Foolish Relics &mdash; 2025</p>
 
-Debut album from the ska band I joined in 2025 as their trumpet player. 13 tracks of Tampa-area ska — horns-forward, high-energy, and utterly unreasonable at 11pm on a Friday.
+I joined this ska band in 2025 as their trumpet player. This release is 13 tracks of Bradenton-area ska — horns-forward, high-energy, and utterly unreasonable at 11pm on a Friday.
 
 <div class="embed-responsive">
 <iframe style="border-radius: 8px; border: 1px solid #C9A84C;" width="100%" height="600" title="Spotify Embed: Somebody Please Just Wake Me Up" frameborder="0" allowfullscreen src="https://open.spotify.com/embed/album/5blJvI5zF7KZaydjXx35lm?utm_source=generator" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -87,10 +87,9 @@ A Christmas-themed album arranged for British-style Brass Band.  For this album,
 <div class="album-entry">
 
 ### Sunshine and Brass
-<p class="album-year">Sunshine Brass &mdash; 2009</p>
+<p class="album-year">Sunshine Brass &mdash; 2003</p>
 
-A brass ensemble project, recorded in Tampa. Arrangements of popular and classical pieces for brass choir.
-On this album, I played B-flat tuba.
+A brass ensemble project, recorded in Temple Terrace, FL. Arrangements of popular and classical pieces for brass choir. On this album, I played B-flat tuba.
 
 <div class="album-carousel" id="carousel-snb">
   <div class="album-track">
