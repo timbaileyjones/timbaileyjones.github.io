@@ -19,18 +19,15 @@ Groups I play with around Tampa Bay. Hover or tap to pause, then click a link.
         </div>
         <div class="slide-content">
           <div class="slide-tags">
-            <span class="slide-genre">Ska / Punk</span>
+            <span class="slide-genre">Ska</span>
             <span class="slide-role">Trumpet</span>
           </div>
           <h2 class="slide-title">Foolish Relics</h2>
           <p class="slide-desc">
-            Tampa-area ska band I joined in 2025 as their trumpet player. High-energy horns-up ska punk —
-            if you've never seen a brass section lose its mind at a club show, come find us.
+            Tampa-area ska band I joined in 2025 as their trumpet player. High-energy horns-up ska.
             Our debut album <em>Somebody Please Just Wake Me Up</em> dropped in 2025.
           </p>
           <ul class="slide-shows">
-            <li><strong>Apr 18</strong> &mdash; Inner Compass, Lakewood Ranch FL</li>
-            <li><strong>May 16</strong> &mdash; Grand Central Brewhouse, St. Pete FL</li>
             <li><strong>Jun 1</strong> &mdash; Bottom of the Hill, San Francisco CA</li>
             <li><strong>Jun 6</strong> &mdash; The Holding Company, San Diego CA</li>
           </ul>
@@ -57,7 +54,8 @@ Groups I play with around Tampa Bay. Hover or tap to pause, then click a link.
           <h2 class="slide-title">Cypress Creek Dixieland</h2>
           <p class="slide-desc">
             Traditional dixieland band out of the Wesley Chapel / Pasco County area, going strong for 12+ years.
-            I'm their tuba player — the bottom of the rhythm section. We play festivals, private events,
+            I'm their tuba player — the bottom of the rhythm section. We play at New Tampa Performing Arts Center,
+            Carrollwood Cultural Center, neighborhood clubhouses, festivals, private events,
             breweries, and anywhere that needs some New Orleans flavor in central Florida.
           </p>
           <div class="slide-links">
@@ -76,14 +74,15 @@ Groups I play with around Tampa Bay. Hover or tap to pause, then click a link.
         </div>
         <div class="slide-content">
           <div class="slide-tags">
-            <span class="slide-genre">Classical Brass</span>
-            <span class="slide-role">Tuba</span>
+            <span class="slide-genre">Brass Quintet</span>
+            <span class="slide-role">Mellophone/Horn</span>
           </div>
           <h2 class="slide-title">Gaspar Brass Quintet</h2>
           <p class="slide-desc">
-            Named for José Gaspar — Tampa Bay's legendary pirate — this is a classical brass quintet:
-            two trumpets, French horn, trombone, and tuba. We play transcriptions, brass quintet
-            literature, and the occasional arrangement that nobody in the audience expected.
+            Named for José Gaspar — Tampa Bay's legendary pirate — this is a fun brass quintet:
+            two trumpets, French horn, trombone, and tuba. We play transcriptions, show tunes, 
+            jazz arrangements, brass quintet literature, and the occasional arrangement that 
+            nobody in the audience expected.
           </p>
           <div class="slide-links">
             <a class="slide-link primary" href="/performances">Performances</a>
@@ -101,13 +100,13 @@ Groups I play with around Tampa Bay. Hover or tap to pause, then click a link.
         <div class="slide-content">
           <div class="slide-tags">
             <span class="slide-genre">Concert Band</span>
-            <span class="slide-role">Tuba</span>
+            <span class="slide-role">Various</span>
           </div>
           <h2 class="slide-title">Wesley Chapel Wind Ensemble</h2>
           <p class="slide-desc">
-            Community wind ensemble serving Wesley Chapel and New Tampa. This is where I get to play
-            serious wind band literature — Holst, Grainger, Chance, Persichetti. A full concert band
-            experience without anyone having to be in 9th grade.
+            Community wind ensemble serving Wesley Chapel and New Tampa.  I was a founding member
+            of this group around 2010 or so.  The Cypress Creek Jazz Band and Gaspar Brass both 
+            grew out of this ensemble.
           </p>
           <div class="slide-links">
             <a class="slide-link primary" href="/performances">Performances</a>
@@ -125,7 +124,7 @@ Groups I play with around Tampa Bay. Hover or tap to pause, then click a link.
         <div class="slide-content">
           <div class="slide-tags">
             <span class="slide-genre">Symphony Orchestra</span>
-            <span class="slide-role">Principal Tuba</span>
+            <span class="slide-role">Bassoon / French Horn</span>
           </div>
           <h2 class="slide-title">Dade City Symphony</h2>
           <p class="slide-desc">

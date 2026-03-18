@@ -12,7 +12,7 @@ A selection of videos from gigs over the years.
 
 ## Cypress Creek Jazz Band — Travelers' Rest, Dade City FL
 
-A full-length video of our band at Travelers' Rest, a Pasco County venue. Music starts at about the 18-minute mark.
+A full-length video of our band at Travelers' Rest, a Pasco County community of mobile homes and RV enthusiasts. Music starts at about the 18-minute mark.
 
 <div class="video-embed">
 <div class="video-wrapper">
@@ -24,7 +24,7 @@ A full-length video of our band at Travelers' Rest, a Pasco County venue. Music 
 
 ## McKinsey Music Festival 2022 — Kitzbühel, Austria
 
-In 2022 I performed with a full symphony orchestra at the McKinsey Music Festival in Kitzbühel, Austria. The featured work was Mahler's 2nd Symphony (*Resurrection*), which calls for a pretty dramatic tuba part. Playing Mahler in the Austrian Alps was not something I'd predicted for my career, but here we are.
+In 2022 I performed with a full symphony orchestra at the McKinsey Music Festival in Kitzbühel, Austria. The featured work was Mahler's 2nd Symphony (*Resurrection*). Playing one of Mahler's greatest works in the Austrian Alps was not something I'd predicted for my career, but here we are.   In this ensemble I played 2nd bassoon.
 
 <div class="video-embed">
 <div class="video-wrapper">

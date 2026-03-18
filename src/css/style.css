@@ -1,6 +1,92 @@
 /* Musical ivory/black/gold theme */
 
 /* ============================================================
+   ALBUM ART CAROUSEL
+   ============================================================ */
+
+.album-carousel {
+  position: relative;
+  overflow: hidden;
+  border: 1px solid var(--gold);
+  border-radius: 6px;
+  margin: 1rem 0;
+  box-shadow: 0 2px 8px var(--shadow);
+  max-width: 600px;
+}
+
+.album-track {
+  display: flex;
+  transition: transform 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.album-slide {
+  min-width: 100%;
+  height: 600px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #111;
+}
+
+.album-slide img {
+  max-width: 100%;
+  max-height: 100%;
+  width: auto;
+  height: auto;
+  display: block;
+  object-fit: contain;
+}
+
+.album-controls {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+  padding: 0.5rem 1rem;
+  background: var(--black);
+  border-top: 1px solid rgba(201,168,76,0.2);
+}
+
+.album-nav-btn {
+  background: transparent;
+  border: 1px solid rgba(201,168,76,0.4);
+  color: var(--gold);
+  font-size: 1.1rem;
+  line-height: 1;
+  padding: 0.15rem 0.55rem 0.2rem;
+  border-radius: 3px;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.album-nav-btn:hover {
+  background: rgba(201,168,76,0.15);
+  border-color: var(--gold);
+}
+
+.album-dots {
+  display: flex;
+  gap: 0.4rem;
+  align-items: center;
+}
+
+.album-dot {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: rgba(201,168,76,0.3);
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  transition: background 0.2s, transform 0.2s;
+}
+
+.album-dot.active {
+  background: var(--gold);
+  transform: scale(1.3);
+}
+
+/* ============================================================
    ENSEMBLE CAROUSEL
    ============================================================ */
 
@@ -39,6 +125,16 @@
   align-items: center;
   justify-content: center;
   overflow: hidden;
+}
+
+/* Pan animation — reveals wide photos left-to-right while slide is displayed */
+@keyframes ensemble-pan {
+  from { background-position: left center; }
+  to   { background-position: right center; }
+}
+
+.slide-photo.panning {
+  animation: ensemble-pan 9s linear forwards;
 }
 
 /* Each band gets a unique placeholder gradient */

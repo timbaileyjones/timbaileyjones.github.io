@@ -19,11 +19,21 @@
     });
   }
 
+  function startPan(slideEl) {
+    var photo = slideEl.querySelector('.slide-photo');
+    if (!photo) return;
+    // Remove class, force reflow to restart animation, then re-add
+    photo.classList.remove('panning');
+    void photo.offsetWidth;
+    photo.classList.add('panning');
+  }
+
   function update() {
     if (track) track.style.transform = 'translateX(-' + (current * 100) + '%)';
     document.querySelectorAll('.ensemble-dot').forEach(function (d, i) {
       d.classList.toggle('active', i === current);
     });
+    startPan(slides[current]);
   }
 
   function goTo(i) {
@@ -37,7 +47,7 @@
   }
 
   function startTimer() {
-    timer = setInterval(advance, 6000);
+    timer = setInterval(advance, 10000);
   }
 
   function stopTimer() {
@@ -58,4 +68,17 @@
 
   startTimer();
   update();
+
+  // Hide initials placeholder once the background photo successfully loads
+  document.querySelectorAll('.slide-photo').forEach(function (photo) {
+    var style = photo.getAttribute('style') || '';
+    var match = style.match(/url\(['"]?([^'")\s]+)['"]?\)/);
+    if (!match) return;
+    var img = new Image();
+    img.onload = function () {
+      var initials = photo.querySelector('.slide-photo-initials');
+      if (initials) initials.style.display = 'none';
+    };
+    img.src = match[1];
+  });
 })();
