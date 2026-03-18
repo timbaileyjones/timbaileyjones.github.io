@@ -25,6 +25,21 @@ Debut album from the ska band I joined in 2025 as their trumpet player. 13 track
 
 ---
 
+<div class="album-entry">
+
+### Mozart to Mardi Gras
+<p class="album-year">Cypress Creek Jazz Band &mdash; 2026</p>
+
+The band's latest album — 14 tracks ranging from classical crossover to straight-ahead dixieland. I'm the tuba player.
+
+<div class="embed-responsive">
+<iframe style="border-radius: 8px; border: 1px solid #C9A84C;" width="100%" height="500" title="Spotify Embed: Mozart to Mardi Gras" frameborder="0" allowfullscreen src="https://open.spotify.com/embed/album/2GzNSFclRvgoRxFcvvKiBw?utm_source=generator" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</div>
+
+</div>
+
+---
+
 <div class="album-entry" id="cypress">
 
 ### All That Christmas Jazz
