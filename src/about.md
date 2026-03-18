@@ -8,7 +8,7 @@ description: About Tim Bailey Jones — instruments, musical background, Tampa B
 
 I'm a software engineer by day, musician most other times.
 
-Music has been part of my life since childhood. I
+Music has been part of my life since childhood. I originally wanted to join the US Army music program, but due to physical defects in my eyesight, hearing and balance, I failed the physical examination.  I choose software development for my career instead, but never stopped playing music.   In retrospect, it turned out well.  Computer work pays significantly more than military music would have, and this outcome kept me from getting shot at in America's "Endless and Forever Wars".
 
 <div class="ornament">&#9834;</div>
 
