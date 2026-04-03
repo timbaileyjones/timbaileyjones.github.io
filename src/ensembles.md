@@ -129,8 +129,7 @@ Groups I play with around Tampa Bay. Hover or tap to pause, then click a link.
           </div>
           <h2 class="slide-title">Dade City Symphony</h2>
           <p class="slide-desc">
-            Community symphony serving Pasco County. I hold the principal tuba chair — meaning
-            when there's a tuba part, it's mine. Standard orchestral repertoire from the Classical
+            Community symphony serving Pasco County. I play with this band intermittently, but I'll sub for almost any brass part or bassoon. Standard orchestral repertoire from the Classical
             through Romantic periods, performed for the communities of Dade City and Zephyrhills.
           </p>
           <div class="slide-links">
