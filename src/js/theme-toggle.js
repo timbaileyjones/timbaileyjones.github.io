@@ -32,17 +32,31 @@
     setTheme(currentTheme === 'dark' ? 'light' : 'dark');
   });
 
-  // Hide our toggle if Dark Reader is active — it's already doing the job
+  // Hide our toggle if Dark Reader is active — it's already doing the job.
+  // Dynamic mode sets data-darkreader-scheme; filter/static modes set only
+  // data-darkreader-mode and inject #dark-reader-style (no scheme attribute).
+  const isDarkReaderActive = () =>
+    html.hasAttribute('data-darkreader-scheme') ||
+    html.hasAttribute('data-darkreader-mode') ||
+    document.querySelector('meta[name="darkreader"]') != null ||
+    document.getElementById('dark-reader-style') != null;
+
   const checkDarkReader = () => {
-    const drActive = html.hasAttribute('data-darkreader-scheme');
-    themeToggle.style.visibility = drActive ? 'hidden' : '';
+    themeToggle.style.visibility = isDarkReaderActive() ? 'hidden' : '';
   };
 
   checkDarkReader();
 
   new MutationObserver(checkDarkReader).observe(html, {
     attributes: true,
-    attributeFilter: ['data-darkreader-scheme']
+    attributeFilter: ['data-darkreader-scheme', 'data-darkreader-mode']
   });
+
+  if (document.head) {
+    new MutationObserver(checkDarkReader).observe(document.head, {
+      childList: true,
+      subtree: true
+    });
+  }
 })();
 
